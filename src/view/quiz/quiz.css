@@ -1,0 +1,23 @@
+.quiz {
+    height: 100vh
+}
+
+.counter {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin-right: 50px;
+}
+
+.button {
+    border-radius: 10px;
+    cursor: pointer;
+    border: 2px solid black;
+}
+
+.selected {
+  border-radius: 10px;
+    cursor: pointer;
+    border: 2px solid black;
+    background: rgb(109, 233, 109);
+}
